@@ -4,7 +4,7 @@
 
 **Building the next generation of Game Development-as-a-Service (GaaS).** We bridge the gap between high-performance Rust programming and instant WebAssembly deployment.
 
-[Website](https://foxvoid.com) • [Fantasy Craft](https://github.com/foxvoid-studio/fantasy-craft) • [Discord](https://discord.gg/placeholder) • [Twitter](https://twitter.com/placeholder)
+[Website](https://foxvoid.com) • [Fantasy Craft](https://github.com/foxvoid-studio/fantasy_craft) • [Discord](https://discord.gg/placeholder) • [Twitter](https://twitter.com/placeholder)
 
 </div>
 
